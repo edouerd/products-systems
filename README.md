@@ -7,10 +7,10 @@
 
 “Products, Systems” is a sketch of the emergent and mutant sphere of expertise known as Digital Product Design*. The following hypermedia syllabus will address four questions of this field:
 
-1. What is Digital? (Or, what are our raw materials?)
-2. What is Product? (Or, what does it mean to crystalize?)
-3. What is Design? (Or, what are the systems at play?)
-4. What does the future hold?
+1. [What is Digital? (Or, what are our raw materials?)](#what-is-digital)
+2. [What is Product? (Or, what does it mean to crystalize?)](#what-is-product)
+3. [What is Design? (Or, what are the systems at play?)](#what-is-design)
+4. [What does the future hold?](#what-does-the-future-hold)
 
 Contemporary product design is, for the most part, a broken 'graphics' practice. Designers working in digital contexts are repeating history long-covered by other spheres of knowledge. 'Basic' textual websites are labeled "Brutalist". Two hundred years of industrialized systems designing has been forgotten. Thousands of years of architecture and planning theory are generally ignored.
 
