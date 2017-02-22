@@ -3,7 +3,7 @@
 
 —
 
-#### Introduction
+### Introduction
 
 “Products, Systems” is a sketch of the emergent and mutant sphere of expertise known as Digital Product Design*. The following hypermedia syllabus will address four questions of this field:
 
@@ -18,17 +18,13 @@ One may note the examples above as artifacts of a prior time, but even the futur
 
 Throughout this syllabus–sketch, we'll be exploring methods to envision a futuristic practice.
 
-—
-
 > And where does the newborn go from here? The net is vast and infinite. [↪︎](https://youtu.be/G9vvqLXqHaE?t=148)
 
-—
-
-#### Ed. Note
+### Ed. Note
 
 This work is open to continual editing and reinterpretation. We are nestled within a mere ten years of the establishment of a modern product design practice, and it's likely things will change, rapidly. Please feel free to [contribute](https://github.com/edouerd/products-systems) via Github, or [message me](https://twitter.com/edouerd) with suggestions.
 
-#### Structure, Expectations, and Goals
+### Structure, Expectations, and Goals
 
 ###### Structure
 
@@ -47,7 +43,7 @@ How are you entrapping your users within systems? How are you freeing them? Does
 
 Ideally, you should be leaving this syllabus with more questions, with a deeper capability for introspection into your practice. Ideally, you will be leaving with a greater understanding of histories that can inform your practice.
 
-#### Many Thanks
+### Many Thanks
 
 This syllabus-sketch was heavily inspired by the following:
 
@@ -74,11 +70,38 @@ This syllabus-sketch was heavily inspired by the following:
 ### What is Product?
 ##### (Or, what does it mean to crystalize?)
 
+> Quote
 
+- get up to speed
+- get up to speed
+- get up to speed
+
+1. Reading One
+2. Reading Two
+3. Reading Three
 
 ### What is Design?
 ##### (Or, what are the systems at play?)
 
+> Quote
+
+- get up to speed
+- get up to speed
+- get up to speed
+
+1. Reading One
+2. Reading Two
+3. Reading Three
 
 ### What does the future hold?
 ##### How to keep going
+
+> Quote
+
+- get up to speed
+- get up to speed
+- get up to speed
+
+1. Reading One
+2. Reading Two
+3. Reading Three
