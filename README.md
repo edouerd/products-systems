@@ -2,7 +2,7 @@
 
 ###### An open syllabus for product designers.
 
-#### 
+####
 
 #### Introduction {#introduction}
 
@@ -24,13 +24,13 @@ Throughout this syllabus–sketch, we'll be exploring methods to envision a futu
 
 > And where does the newborn go from here? The net is vast and infinite.
 
-#### 
+####
 
 #### Ed. Note {#ed-note}
 
 This work is open to continual editing and reinterpretation. We are nestled within a mere ten years of the establishment of a modern product design practice, and it's likely things will change, rapidly. Please feel free to \[contribute\]\([https://github.com/edouerd/products-systems\](https://github.com/edouerd/products-systems%29\) via Github, or \[message me\]\([https://twitter.com/edouerd\](https://twitter.com/edouerd%29\) with suggestions.
 
-#### 
+####
 
 #### Structure, Expectations, and Goals {#structure-expectations-goals}
 
@@ -52,7 +52,7 @@ How are you entrapping your users within systems? How are you freeing them? Does
 
 Ideally, you should be leaving this syllabus with more questions, with a deeper capability for introspection into your practice. Ideally, you will be leaving with a greater understanding of histories that can inform your practice.
 
-#### 
+####
 
 #### Many Thanks {#many-thanks}
 
@@ -65,7 +65,7 @@ This syllabus-sketch was heavily inspired by the following:
 
 ---
 
-#### 
+####
 
 #### What is Digital? {#what-is-digital}
 
@@ -89,7 +89,7 @@ This syllabus-sketch was heavily inspired by the following:
 
 ---
 
-### 
+###
 
 ### What is Product?
 
@@ -115,7 +115,7 @@ This syllabus-sketch was heavily inspired by the following:
 
 —
 
-* LINK
+* [The Art of Interaction Design](https://www.are.na/block/863863)
 
 —
 
@@ -138,6 +138,11 @@ This syllabus-sketch was heavily inspired by the following:
 > That is architecture.
 >
 > — Le Corbusier
+>
+> Providing, meaning to a mass of unrelated needs, ideas, words and pictures - it is the designer's job to select and fit this material together and make it interesting.
+>
+> - Paul Rand
+>
 
 —
 
@@ -155,7 +160,8 @@ This syllabus-sketch was heavily inspired by the following:
 
 3. [https://programmingdesignsystems.com/introduction/](https://programmingdesignsystems.com/introduction/)
 
-4. Reading Two
+4.
+[Designing Programmes, Karl Gerstner (excerpt)](https://www.are.na/block/842536)
 
 5. Reading Three
 
@@ -177,15 +183,16 @@ This syllabus-sketch was heavily inspired by the following:
 
 * [http://urbit.org/blog/2017.1-update/](http://urbit.org/blog/2017.1-update/)
 
+* [Social Software](https://github.com/tegacodes/socialsoftware_bots)
+
 * get up to speed
 
 —
 
-1. Reading One
+1. [Speculative Everything: Design, Fiction and Social Dreaming](https://www.are.na/block/842537)
 
-2. Reading Two
+2. [Expanded Education For The Paperless Society, Nam June Paik](https://www.are.na/block/690470)
 
-3. Reading Three
+3. [Database As Symbolic Form, Lev Manovich](https://cct335-w11.wikispaces.com/file/view/manovich-database.pdf)
 
 [^2]: Henceforth referred to as 'product design'
-
