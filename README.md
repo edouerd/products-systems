@@ -4,7 +4,7 @@
 
 #### 
 
-#### Introduction
+#### Introduction {#introduction}
 
 “Products, Systems” is a sketch of the emergent and mutant sphere of expertise known as Digital Product Design. The following hypermedia syllabus will address four questions of this field:
 
@@ -26,13 +26,13 @@ Throughout this syllabus–sketch, we'll be exploring methods to envision a futu
 
 #### 
 
-#### Ed. Note
+#### Ed. Note {#ed-note}
 
 This work is open to continual editing and reinterpretation. We are nestled within a mere ten years of the establishment of a modern product design practice, and it's likely things will change, rapidly. Please feel free to \[contribute\]\([https://github.com/edouerd/products-systems\](https://github.com/edouerd/products-systems%29\) via Github, or \[message me\]\([https://twitter.com/edouerd\](https://twitter.com/edouerd%29\) with suggestions.
 
 #### 
 
-#### Structure, Expectations, and Goals
+#### Structure, Expectations, and Goals {#structure-expectations-goals}
 
 ##### Structure
 
@@ -42,21 +42,19 @@ Follow along, or deviate as you like.
 
 ##### Expectations
 
-As you progress along with the readings, consider your individual background. Consider the perspective you bring to the act of creation, and the biases you engender in your work. Consider the implication of interfaces as valves and switches of \(political\) power.
+As you progress along with the readings, consider your individual background. Consider the perspective you bring to the act of creation and the biases you engender in your work. Consider the implication of interfaces as valves and switches of \(political\) power.
 
 ##### Where does the power flow?
 
 How are you entrapping your users within systems? How are you freeing them? Does what you build need to exist?
 
-#### 
-
-#### Goals
+##### Goals
 
 Ideally, you should be leaving this syllabus with more questions, with a deeper capability for introspection into your practice. Ideally, you will be leaving with a greater understanding of histories that can inform your practice.
 
 #### 
 
-#### Many Thanks
+#### Many Thanks {#many-thanks}
 
 This syllabus-sketch was heavily inspired by the following:
 
@@ -69,7 +67,7 @@ This syllabus-sketch was heavily inspired by the following:
 
 #### 
 
-#### What is Digital?
+#### What is Digital? {#what-is-digital}
 
 ###### \(Or, what are our raw materials?\)
 
@@ -188,8 +186,6 @@ This syllabus-sketch was heavily inspired by the following:
 2. Reading Two
 
 3. Reading Three
-
-
 
 [^2]: Henceforth referred to as 'product design'
 
